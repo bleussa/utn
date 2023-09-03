@@ -1,4 +1,5 @@
 # UTN
+[https://raw.githubusercontent.com/bleussa/utn/main/welcomeBanner.jpg](https://raw.githubusercontent.com/bleussa/utn/main/welcomeBanner.jpg)
 <span>![</span><span>Welcome Banner</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://raw.githubusercontent.com/bleussa/utn/main/welcomeBanner.jpg)</span><span>)</span>
 
 - **Carrera:** Tecnicatura Universitaria en Programación
