@@ -1,0 +1,15 @@
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N2\TPN2\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
