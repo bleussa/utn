@@ -48,7 +48,8 @@ public class ControladorComponente {
 
     // METODO PARA TRAER COMPONENTE POR ID
     public Componente getComponenteById(long id){
-        Componente componente = new Componente();
+        ControladorComputadoras ctrlComputadoras = new ControladorComputadoras();
+        Componente componente = null;
         ResultSet rs = null;
         String sqlQuery = "SELECT * FROM componente WHERE id='" + id + "';";
 
@@ -58,10 +59,11 @@ public class ControladorComponente {
             rs = statement.executeQuery(sqlQuery);
 
             if (rs.next()){
+                componente = new Componente();
                 componente.setId(rs.getInt(1));
                 componente.setNombre(rs.getString(2));
                 componente.setNroSerie(rs.getString(3));
-                // componente.getComputadora().setId(rs.getInt(4));
+                componente.setComputadora(ctrlComputadoras.getComputadoraById(rs.getInt("fk_computadora")));
             }
 
         } catch (Exception ex){

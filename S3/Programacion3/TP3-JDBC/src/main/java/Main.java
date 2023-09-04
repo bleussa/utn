@@ -14,9 +14,6 @@ public class Main {
 
         gestorElementos();
 
-
-
-
     }
 
     public static void gestorElementos(){
@@ -52,13 +49,13 @@ public class Main {
                     buscarComputadoras();
                     break;
                 case 4:
-                    // buscarComputadoraPorId();
+                    buscarComputadorasID();
                     break;
                 case 5:
                     buscarComponentes();
                     break;
                 case 6:
-                    // buscarComponentesPorId();
+                    buscarComponentesID();
                     break;
                 case 7:
                     usuarioEligeBool = true;
@@ -105,14 +102,48 @@ public class Main {
         }
     }
 
+    public static void buscarComputadorasID(){
+        ControladorComputadoras ctrlComputadoras = new ControladorComputadoras();
+        Scanner sc = new Scanner(System.in);
+        Computadora computadora = null;
+
+        do {
+            System.out.println("[DATO] Inserte el ID de la computadora:");
+            int idComputadora = sc.nextInt();
+            computadora = ctrlComputadoras.getComputadoraById(idComputadora);
+        } while (computadora == null);
+
+
+        System.out.println("[DATO] Computadora encontrada:");
+        System.out.println("ID, CODIGO, MARCA, MODELO");
+        System.out.println(computadora.getId() + ", " + computadora.getCodigo() + ", " + computadora.getMarca() + ", " + computadora.getModelo());
+    }
+
     public static void buscarComponentes(){
         ControladorComponente ctrlComponentes = new ControladorComponente();
         List<Componente> componentes = ctrlComponentes.getComponentes();
         System.out.println("[DATO] Listado de componentes:");
-        System.out.println("ID, NOMBRE, NRO SERIE, COMPUTADORA");
+        System.out.println("ID, NOMBRE, NRO SERIE, COMPUTADORA ID");
         for (Componente componente : componentes) {
             System.out.println(componente.getId() + ", " + componente.getNombre() + ", " + componente.getNroSerie() + ", " + componente.getComputadora().getId());
         }
+    }
+
+    public static void buscarComponentesID(){
+        ControladorComponente ctrlComponentes = new ControladorComponente();
+        Scanner sc = new Scanner(System.in);
+        Componente componente = null;
+
+        do {
+            System.out.println("[DATO] Inserte el ID del componente:");
+            int idComponente = sc.nextInt();
+            componente = ctrlComponentes.getComponenteById(idComponente);
+        } while (componente == null);
+
+
+        System.out.println("[DATO] Componente encontrado:");
+        System.out.println("ID, NOMBRE, NRO SERIE, COMPUTADORA ID");
+        System.out.println(componente.getId() + ", " + componente.getNombre() + ", " + componente.getNroSerie() + ", " + componente.getComputadora().getId());
     }
 
 }

@@ -19,12 +19,12 @@ public class ControladorComputadoras {
     public void createComputadora() throws SQLException {
         Scanner sc = new Scanner(System.in);
         String sqlQuery = "INSERT INTO computadora (codigo,marca,modelo) VALUES (?, ?, ?)";
-        String sqlQueryComponente = "INSERT INTO componente (id,nombre,nro_serie,fk_computadora) VALUES (?. ?, ?, ?)";
+        String sqlQueryComponente = "INSERT INTO componente (nombre,nro_serie,fk_computadora) VALUES (?, ?, ?)";
         PreparedStatement ps = null;
         PreparedStatement psComponente = null;
 
         try {
-            ps = conn.prepareStatement(sqlQuery);
+            ps = conn.prepareStatement(sqlQuery, PreparedStatement.RETURN_GENERATED_KEYS);
 
             System.out.println("[MENSAJE] Creando una computadora...");
             System.out.println("[DATO] Codigo:");
@@ -38,21 +38,22 @@ public class ControladorComputadoras {
             ps.setString(2, marca);
             ps.setString(3, modelo);
             ps.executeUpdate();
+            ResultSet rs = ps.getGeneratedKeys();
+            int computadoraId = -1;
+            if (rs.next()){
+                computadoraId = rs.getInt(1);
+            }
+
 
             psComponente = conn.prepareStatement(sqlQueryComponente);
             System.out.println("[MENSAJE] Creando un componente...");
-            System.out.println("[DATO] ID:");
-            int id = sc.nextInt();
             System.out.println("[DATO] Nombre:");
             String nombre = sc.next();
             System.out.println("[DATO] Numero de serie:");
             String nroSerie = sc.next();
-            System.out.println("[DATO] ID Computadora:");
-            int idComputadora = sc.nextInt();
-            psComponente.setInt(1, id);
-            psComponente.setString(2, nombre);
-            psComponente.setString(3, nroSerie);
-            psComponente.setInt(4, idComputadora);
+            psComponente.setString(1, nombre);
+            psComponente.setString(2, nroSerie);
+            psComponente.setInt(3, computadoraId);
             psComponente.executeUpdate();
 
             conn.commit();
