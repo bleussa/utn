@@ -1,4 +1,6 @@
 # UTN
+![Welcome Banner](https://raw.githubusercontent.com/bleussa/utn/main/welcomeBanner.jpg)
+
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Duración**: 2 años (4 Semestres)
 - **Inicio:** Agosto 2022
