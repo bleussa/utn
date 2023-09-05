@@ -8,6 +8,7 @@ import java.util.List;
 public class Computadora {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     @Column
@@ -23,6 +24,12 @@ public class Computadora {
     private List<Componente> componentes = new ArrayList<>();
 
     public Computadora() {
+    }
+
+    public Computadora(String codigo, String marca, String modelo) {
+        this.codigo = codigo;
+        this.marca = marca;
+        this.modelo = modelo;
     }
 
     public int getId() {

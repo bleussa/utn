@@ -16,53 +16,53 @@ public class Main {
 
     }
 
-    public static void gestorElementos(){
-        Scanner sc = new Scanner(System.in);
+            public static void gestorElementos(){
+                Scanner sc = new Scanner(System.in);
 
-        System.out.println("# GESTOR DE ELEMENTOS #");
-        boolean usuarioEligeBool = false;
-        while (!usuarioEligeBool){
-            System.out.println("\n[MENU DE ACCIONES]");
-            System.out.println("1. Registrar una computadora");
-            System.out.println("2. Registrar un componente");
-            System.out.println("3. Ver listado de computadoras");
-            System.out.println("4. Buscar computadora por ID");
-            System.out.println("5. Ver listado de componentes");
-            System.out.println("6. Buscar componente por ID");
-            System.out.println("7. Salir");
+                System.out.println("# GESTOR DE ELEMENTOS #");
+                boolean usuarioEligeBool = false;
+                while (!usuarioEligeBool){
+                    System.out.println("\n[MENU DE ACCIONES]");
+                    System.out.println("1. Registrar una computadora");
+                    System.out.println("2. Registrar un componente");
+                    System.out.println("3. Ver listado de computadoras");
+                    System.out.println("4. Buscar computadora por ID");
+                    System.out.println("5. Ver listado de componentes");
+                    System.out.println("6. Buscar componente por ID");
+                    System.out.println("7. Salir");
 
-            int usuarioElige = 0;
-            try {
-                usuarioElige = Integer.parseInt(sc.nextLine());
-            } catch (Exception ex){
-                System.out.println("[ERROR] " + ex.getMessage());
+                    int usuarioElige = 0;
+                    try {
+                        usuarioElige = Integer.parseInt(sc.nextLine());
+                    } catch (Exception ex){
+                        System.out.println("[ERROR] " + ex.getMessage());
+                    }
+
+                    switch (usuarioElige){
+                        case 1:
+                            crearComputadora();
+                            break;
+                        case 2:
+                            crearComponente();
+                            break;
+                        case 3:
+                            buscarComputadoras();
+                            break;
+                        case 4:
+                            buscarComputadorasID();
+                            break;
+                        case 5:
+                            buscarComponentes();
+                            break;
+                        case 6:
+                            buscarComponentesID();
+                            break;
+                        case 7:
+                            usuarioEligeBool = true;
+                            break;
+                    }
+                }
             }
-
-            switch (usuarioElige){
-                case 1:
-                    crearComputadora();
-                    break;
-                case 2:
-                    crearComponente();
-                    break;
-                case 3:
-                    buscarComputadoras();
-                    break;
-                case 4:
-                    buscarComputadorasID();
-                    break;
-                case 5:
-                    buscarComponentes();
-                    break;
-                case 6:
-                    buscarComponentesID();
-                    break;
-                case 7:
-                    usuarioEligeBool = true;
-                    break;
-            }
-        }
-    }
 
     public static void crearComputadora(){
         ControladorComputadoras ctrlComputadoras = new ControladorComputadoras();

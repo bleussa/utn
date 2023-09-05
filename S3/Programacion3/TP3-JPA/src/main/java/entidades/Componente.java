@@ -6,6 +6,7 @@ import javax.persistence.*;
 public class Componente {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     @Column
@@ -18,6 +19,12 @@ public class Componente {
     private Computadora computadora;
 
     public Componente() {
+    }
+
+    public Componente(String nombre, String nroSerie, Computadora computadora) {
+        this.nombre = nombre;
+        this.nroSerie = nroSerie;
+        this.computadora = computadora;
     }
 
     public int getId() {
