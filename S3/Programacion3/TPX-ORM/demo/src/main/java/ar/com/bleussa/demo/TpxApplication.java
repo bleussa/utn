@@ -1,7 +1,8 @@
 package ar.com.bleussa.demo;
 
+import ar.com.bleussa.demo.entidades.Domicilio;
 import ar.com.bleussa.demo.entidades.Factura;
-import ar.com.bleussa.demo.repositorios.FacturaRepositorio;
+import ar.com.bleussa.demo.repositorios.*;
 import ar.com.bleussa.demo.util.FormaPago;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -14,6 +15,27 @@ public class TpxApplication {
 
 	@Autowired
 	FacturaRepositorio facturaRepo;
+
+	@Autowired
+	ClienteRepositorio clienteRepo;
+
+	@Autowired
+	DetallePedidoRepositorio detallePedidoRepo;
+
+	@Autowired
+	DomicilioRepositorio domicilioRepo;
+
+	@Autowired
+	PedidoRepositorio pedidoRepo;
+
+	@Autowired
+	ProductoRepositorio productoRepo;
+
+	@Autowired
+	RubroRepositorio rubroRepo;
+
+	@Autowired
+	UsuarioRepositorio usuarioRepo;
 
 	public static void main(String[] args) {
 
