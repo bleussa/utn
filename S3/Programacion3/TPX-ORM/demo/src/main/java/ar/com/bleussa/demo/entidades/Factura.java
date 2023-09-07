@@ -31,4 +31,6 @@ public class Factura implements Serializable {
     private FormaPago formaPago;
 
     private int total;
+
+    private int numero;
 }

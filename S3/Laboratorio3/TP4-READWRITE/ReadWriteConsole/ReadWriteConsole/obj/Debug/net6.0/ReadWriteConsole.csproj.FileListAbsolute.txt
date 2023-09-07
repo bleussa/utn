@@ -1,0 +1,58 @@
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.csproj.AssemblyReference.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.AssemblyInfoInputs.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.AssemblyInfo.cs
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.csproj.CoreCompileInputs.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.exe
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.deps.json
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.runtimeconfig.json
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.pdb
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\refint\ReadWriteConsole.dll
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.pdb
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.genruntimeconfig.cache
+G:\Mi unidad\[UTN]\03 - Semestre 3\01 - Materias\05 - LAB\TP-N3\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ref\ReadWriteConsole.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.csproj.AssemblyReference.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.AssemblyInfoInputs.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.AssemblyInfo.cs
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.csproj.CoreCompileInputs.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\refint\ReadWriteConsole.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.pdb
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.exe
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.deps.json
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.runtimeconfig.json
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ReadWriteConsole.pdb
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.csproj.CopyComplete
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ReadWriteConsole.genruntimeconfig.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\obj\Debug\net6.0\ref\ReadWriteConsole.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\TP4-READWRITE\ReadWriteConsole\ReadWriteConsole\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
