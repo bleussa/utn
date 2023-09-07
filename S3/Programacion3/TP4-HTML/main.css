@@ -1,0 +1,61 @@
+body{
+    background: #F1F1F1;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #212121;
+}
+
+.container{
+    margin: 20px 30%;
+}
+
+.container div.children{
+    background: #FFF;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    padding: 15px 20px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.container div.children h1{
+    font-size: 32px;
+    font-weight: 600;
+    padding: 0;
+    margin: 0 0 20px 0;
+    width: 100%;
+    border-bottom: 1px #21212120 solid;
+}
+.container div.children h2{
+    margin: 0;
+    padding: 0;
+}
+.container div.children form{
+    width: 100%;
+    box-sizing: border-box;
+}
+.container div.children form div{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.container div.children form label{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.container div.children form input{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px #21212140 solid;
+}
+.container div.children .ld1{
+    list-style-type: circle;
+}
+.container div.children .lo1{
+    list-style-type: upper-alpha;
+}
