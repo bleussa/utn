@@ -20,8 +20,6 @@ namespace ReadWriteConsole {
             {
                 MySqlConnection conexion = new MySqlConnection(cadenaConexion);
 
-                Console.WriteLine("[OK] CONEXION CREADA");
-
                 return conexion;
             }
             catch (MySqlException ex)
