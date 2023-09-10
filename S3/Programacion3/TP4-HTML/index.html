@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
     <title>TP4 - HTML</title>
     <link rel="stylesheet" href="main.css">
 </head>
@@ -43,20 +43,158 @@
         </div>
 
         <div class="children">
+            <h1>Imagenes y Tablas</h1>
+            <table>
+                <tbody>
+                    <tr>
+                        <td rowspan="5" width="20%">Gastronomia</td>
+                        <td>Restaurantes</td>
+                        <td rowspan="3"><a href="imagen1.jpg" target="_blank"><img src="imagen1.jpg" alt=""></a></td>
+                    </tr>
+                    <tr>
+                        <td>Sidrerias y Asadores</td>
+                    </tr>
+                    <tr>
+                        <td>Bodegas de vino y txakoli</td>
+                    </tr>
+                    <tr>
+                        <td>Productos tipicos</td>
+                        <td rowspan="2"><a href="imagen2.jpg" target="_blank"><img src="imagen2.jpg" alt=""></a></td>
+                    </tr>
+                    <tr>
+                        <td>Escuela de hosteleria</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4" width="20%">Cultura</td>
+                        <td>Archivos y Bibliotecas</td>
+                        <td rowspan="4"><a href="imagen3.jpg" target="_blank"><img src="imagen3.jpg" alt=""></a></td>
+                    </tr>
+                    <tr>
+                        <td>Museos</td>
+                    </tr>
+                    <tr>
+                        <td>Palacios de Congresos</td>
+                    </tr>
+                    <tr>
+                        <td>Ferias de muestra</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4" width="20%">Ocio</td>
+                        <td>Entretenimiento y Diversion</td>
+                        <td rowspan="4"><a href="imagen4.jpg" target="_blank"><img src="imagen4.jpg" alt="E404"></a></td>
+                    </tr>
+                    <tr>
+                        <td>Ocio cultural</td>
+                    </tr>
+                    <tr>
+                        <td>Excursiones y deporte</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="children">
             <h1>Formulario</h1>
-            <form action="">
+            <form action="" class="data">
                 <div>
-                    <label for="" id="name">Nombre</label>
-                    <input type="text" id="name">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre" style="width: 25%;">
                 </div>
                 <div>
-                    <label for="" id="name">Nombre</label>
-                    <input type="text" id="name">
+                    <label for="apell1">Primer apellido</label>
+                    <input type="text" id="apell1" style="width: 35%;">
                 </div>
                 <div>
-                    <label for="" id="name">Nombre</label>
-                    <input type="text" id="name">
+                    <label for="apell2">Segundo apellido</label>
+                    <input type="text" id="apell2" style="width: 35%;">
                 </div>
+                <div>
+                    <label for="domicilio">Domicilio</label>
+                    <input type="text" id="domicilio" style="width: 30%;">
+                </div>
+                <div>
+                    <label for="codPostal">Codigo Postal</label>
+                    <input type="number" id="codPostal" style="width: 15%;">
+                </div>
+                <div>
+                    <label for="tel">Teléfono</label>
+                    <input type="tel" id="tel" style="width: 20%;">
+                </div>
+                <div>
+                    <label for="mail">Email</label>
+                    <input type="email" id="mail" style="width: 45%;">
+                </div>
+                <div>
+                    <label for="e-mail">Confirmar Email</label>
+                    <input type="email" id="e-mail" style="width: 45%;">
+                </div>
+                <div style="flex-direction: row; justify-content: center; gap: 10px;">
+                    <input type="reset" value="Resetear">
+                    <input type="submit" value="Enviar">
+                </div>
+            </form>
+        </div>
+
+        <div class="children">
+            <h1>Formulario Arte</h1>
+            <form action="" class="art">
+                <div>
+                    <h2>Obra</h2>
+                    <div>
+                        <label for="titulo">Titulo</label>
+                        <input type="text" id="titulo" style="width: 60%;">
+                    </div>
+                    <div>
+                        <label for="obra">Obra</label>
+                        <input type="text" id="obra" style="width: 30%;">
+                    </div>
+                </div>
+                <div>
+                    <h2>Tipo</h2>
+                    <div>
+                        <input type="checkbox" name="esc" id="esc">
+                        <label for="esc">Escultura</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="arq" id="arq">
+                        <label for="arq">Arquitectura</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="pint" id="pint">
+                        <label for="pint">Pintura</label>
+                    </div>
+                </div>
+                <div>
+                    <h2>Disponibilidad</h2>
+                    <div>
+                        <input type="radio" name="disp" id="publ">
+                        <label for="publ" style="width: 75%; text-align: left;">Museo / Acceso publico</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="disp" id="priv">
+                        <label for="priv" style="width: 75%; text-align: left;">Colección Privada</label>
+                    </div>
+                </div>
+                <div>
+                    <h2>Estilo</h2>
+                    <div>
+                        <select name="estilo" id="estilo" style="width: 100%; font-size: 14px;">
+                            <option value="clas">Clasico</option>
+                            <option value="abs">Abstracto</option>
+                            <option value="surr">Surrealista</option>
+                            <option value="otro">Otros</option>
+                        </select>
+                    </div>
+                </div>
+                <div style="flex-direction: row; align-items: flex-start; grid-column: 1/5; margin-top: 40px;">
+                    <p style="width: 250px; padding: 0; margin: 0;">Haganos saber sus sugerencias</p>
+                    <textarea name="texto" id="texto" cols="40" rows="4">Me gustaría indicar que...</textarea>
+                </div>
+                <div style="flex-direction: row; align-items: center; justify-content: center; grid-column: 1/5;">
+                    <input type="submit" value="Buscar">
+                </div>
+                
+                
             </form>
         </div>
     </div>
