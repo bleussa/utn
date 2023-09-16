@@ -63,7 +63,7 @@ body{
 .jsContent input::placeholder{
     color: #ffffff40;
 }
-.jsContent input[type=submit]{
+.jsContent input[type=submit], .jsContent button{
     width: 100%;
     padding: 10px;
     font-size: 16px;
@@ -75,7 +75,7 @@ body{
     transition: all .5s;
     margin: 0;
 }
-.jsContent input[type=submit]:hover{
+.jsContent input[type=submit]:hover, .jsContent button:hover{
     background: #0665c4;
 }
 .jsContent h2{
@@ -104,4 +104,121 @@ body{
     background: #FFF;
     padding: 3px 10px;
     border-radius: 100px;
+}
+
+.modal{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    background: #212121;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px;
+    border-radius: 20px;
+    transform: translateX(-100vw);
+    transition: all .5s;
+    box-sizing: border-box;
+}
+
+.modal.visible{
+    transform: translateX(0);
+}
+
+.modal h1{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.modal p{
+    margin: 0;
+    padding: 0;
+}
+
+.modal .close{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px 30px;
+    background: indianred;
+    border-radius: 5px 0 20px 0;
+    transition: all 1s;
+    cursor: pointer;
+    font-weight: 600;
+}
+.modal .close:hover{
+    background: #9b4242;
+    padding: 10px 40px;
+}
+
+#numero{
+    font-size: 128px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.calculadora{
+    background: #161a20;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30%;
+    height: 50%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 5px;
+    box-sizing: border-box;
+}
+
+.calculadora p{
+    grid-column: 1/5;
+    background: #20252e;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    border-radius: 2px;
+    font-size: 24px;
+    overflow: hidden;
+    cursor: default;
+}
+
+.calculadora button{
+    border: none;
+    font-size: 24px;
+    border-radius: 2px;
+    background: #242933;
+    color: #CBE1FF;
+    transition: all .25s;
+    cursor: pointer;
+}
+.calculadora button:hover{
+    background: #1d2129;
+}
+
+.calculadora button.operador{
+    background: #0060E5;
+}
+.calculadora button.operador:hover{
+    background: #004bb5;
+}
+
+.calculadora button.accion{
+    background: #363E4D;
+}
+.calculadora button.accion:hover{
+    background: #282e39;
+}
+
+.calculadora button.active{
+    background: red;
 }
