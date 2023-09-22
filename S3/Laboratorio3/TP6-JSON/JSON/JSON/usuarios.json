@@ -1,0 +1,570 @@
+{
+    "info": {
+        "page": 1,
+        "results": 10,
+        "seed": "a949f2eba767a582",
+        "version": "1.4"
+    },
+    "results": [
+        {
+            "cell": "D93 N64-5292",
+            "dob": {
+                "age": 54,
+                "date": "1969-07-27T19:39:25.110Z"
+            },
+            "email": "florence.taylor@example.com",
+            "gender": "female",
+            "id": {
+                "name": "SIN",
+                "value": "979982600"
+            },
+            "location": {
+                "city": "Odessa",
+                "coordinates": {
+                    "latitude": "-70.0937",
+                    "longitude": "132.0856"
+                },
+                "country": "Canada",
+                "postcode": "Z2V 5F4",
+                "state": "Alberta",
+                "street": {
+                    "name": "Peel St",
+                    "number": 8818
+                },
+                "timezone": {
+                    "description": "Magadan, Solomon Islands, New Caledonia",
+                    "offset": "+11:00"
+                }
+            },
+            "login": {
+                "md5": "c9509be20312574b70666cd1b570e061",
+                "password": "legion",
+                "salt": "j5QwKQRW",
+                "sha1": "3dc487c794d06ed8dde988e236959e743682018c",
+                "sha256": "f764967622e158d5335067ededb2989367b830f39a3172385a4a021ce7db7d58",
+                "username": "tinymouse413",
+                "uuid": "7e2feba0-e2ea-459a-bc8e-a570460863ab"
+            },
+            "name": {
+                "first": "Florence",
+                "last": "Taylor",
+                "title": "Miss"
+            },
+            "nat": "CA",
+            "phone": "K05 K26-7630",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/29.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+            },
+            "registered": {
+                "age": 21,
+                "date": "2002-07-17T03:03:42.060Z"
+            }
+        },
+        {
+            "cell": "0464-913-833",
+            "dob": {
+                "age": 59,
+                "date": "1964-06-18T02:22:50.648Z"
+            },
+            "email": "june.carr@example.com",
+            "gender": "female",
+            "id": {
+                "name": "TFN",
+                "value": "282384875"
+            },
+            "location": {
+                "city": "Nowra",
+                "coordinates": {
+                    "latitude": "25.9739",
+                    "longitude": "-58.4301"
+                },
+                "country": "Australia",
+                "postcode": 8582,
+                "state": "Australian Capital Territory",
+                "street": {
+                    "name": "Mcgowen St",
+                    "number": 8288
+                },
+                "timezone": {
+                    "description": "Central Time (US & Canada), Mexico City",
+                    "offset": "-6:00"
+                }
+            },
+            "login": {
+                "md5": "21c33b7940d73a36b9a23c9e57804c29",
+                "password": "trident",
+                "salt": "l9KBlRuD",
+                "sha1": "b0a3259bd958e3da773e0fe16c563df0da87ad17",
+                "sha256": "b0372e636b4e6880512a3b9adf34cb5287add88a52a214c3e0236eb0b93f59e0",
+                "username": "brownladybug603",
+                "uuid": "01f58b68-3f35-41de-89aa-0260c6380435"
+            },
+            "name": {
+                "first": "June",
+                "last": "Carr",
+                "title": "Mrs"
+            },
+            "nat": "AU",
+            "phone": "09-4782-9263",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/33.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+            },
+            "registered": {
+                "age": 3,
+                "date": "2020-03-25T02:48:49.346Z"
+            }
+        },
+        {
+            "cell": "(474)-571-9257",
+            "dob": {
+                "age": 73,
+                "date": "1950-05-30T07:09:22.270Z"
+            },
+            "email": "lucy.edwards@example.com",
+            "gender": "female",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "location": {
+                "city": "Napier",
+                "coordinates": {
+                    "latitude": "76.9149",
+                    "longitude": "-129.7652"
+                },
+                "country": "New Zealand",
+                "postcode": 92346,
+                "state": "Otago",
+                "street": {
+                    "name": "Kahikatea Drive",
+                    "number": 5824
+                },
+                "timezone": {
+                    "description": "Atlantic Time (Canada), Caracas, La Paz",
+                    "offset": "-4:00"
+                }
+            },
+            "login": {
+                "md5": "97145ad578c000038a8122d467529827",
+                "password": "taylor1",
+                "salt": "IyGusdtD",
+                "sha1": "1b4b2c77b9f3e6b7f66fa8bc02b0b4afffc0027b",
+                "sha256": "a95eebe08f80a66c20821d3b20c6e61b17b09158925648fae18fe2bac838188e",
+                "username": "blackfrog508",
+                "uuid": "f5cad1fb-9b16-463d-861f-96c9856e997d"
+            },
+            "name": {
+                "first": "Lucy",
+                "last": "Edwards",
+                "title": "Mrs"
+            },
+            "nat": "NZ",
+            "phone": "(752)-283-6417",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/86.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+            },
+            "registered": {
+                "age": 17,
+                "date": "2006-03-25T12:08:19.214Z"
+            }
+        },
+        {
+            "cell": "P47 C27-4463",
+            "dob": {
+                "age": 60,
+                "date": "1963-02-27T09:38:57.255Z"
+            },
+            "email": "lea.miller@example.com",
+            "gender": "female",
+            "id": {
+                "name": "SIN",
+                "value": "107746778"
+            },
+            "location": {
+                "city": "Clinton",
+                "coordinates": {
+                    "latitude": "52.9166",
+                    "longitude": "-11.4999"
+                },
+                "country": "Canada",
+                "postcode": "E8E 0E4",
+                "state": "British Columbia",
+                "street": {
+                    "name": "Peel St",
+                    "number": 7617
+                },
+                "timezone": {
+                    "description": "Midway Island, Samoa",
+                    "offset": "-11:00"
+                }
+            },
+            "login": {
+                "md5": "bed5476bf3a82d5db080fa35ef724d57",
+                "password": "misfit99",
+                "salt": "1mjYgips",
+                "sha1": "0bdcbfb9c501648470bb36b15ab5ef4ee47668a5",
+                "sha256": "188b060679230eadafd560e5fa00f78f191b6872283e5c48910f6d2e6019cb62",
+                "username": "orangewolf786",
+                "uuid": "41a64a1b-fbac-4eca-ad8c-6cb03f28d34f"
+            },
+            "name": {
+                "first": "Lea",
+                "last": "Miller",
+                "title": "Ms"
+            },
+            "nat": "CA",
+            "phone": "Q54 Z15-0769",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/23.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+            },
+            "registered": {
+                "age": 15,
+                "date": "2008-01-02T00:41:08.760Z"
+            }
+        },
+        {
+            "cell": "0985-501-3140",
+            "dob": {
+                "age": 64,
+                "date": "1959-07-30T17:41:38.137Z"
+            },
+            "email": "awyn.slry@example.com",
+            "gender": "female",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "location": {
+                "city": "زنجان",
+                "coordinates": {
+                    "latitude": "-16.6315",
+                    "longitude": "117.1381"
+                },
+                "country": "Iran",
+                "postcode": 85606,
+                "state": "آذربایجان شرقی",
+                "street": {
+                    "name": "سبلان جنوبی",
+                    "number": 1346
+                },
+                "timezone": {
+                    "description": "Midway Island, Samoa",
+                    "offset": "-11:00"
+                }
+            },
+            "login": {
+                "md5": "9cab8252f9f11b1e3cd70253a533f343",
+                "password": "dallas1",
+                "salt": "dTN2ncom",
+                "sha1": "582a3efc220cf126f2b9fad333122797bfcee74c",
+                "sha256": "8e12f96bc85799ec4b8a2ff399e6795d514a707fa51afe647fc187dcf88e736c",
+                "username": "lazyostrich507",
+                "uuid": "21e91fd9-b549-447e-b24d-a80d94d92b8d"
+            },
+            "name": {
+                "first": "آوین",
+                "last": "سالاری",
+                "title": "Mrs"
+            },
+            "nat": "IR",
+            "phone": "016-05411112",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/55.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+            },
+            "registered": {
+                "age": 5,
+                "date": "2017-11-10T12:25:48.816Z"
+            }
+        },
+        {
+            "cell": "0929-808-9299",
+            "dob": {
+                "age": 51,
+                "date": "1972-01-11T09:38:10.357Z"
+            },
+            "email": "mrsn.mwswy@example.com",
+            "gender": "female",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "location": {
+                "city": "کرج",
+                "coordinates": {
+                    "latitude": "6.1727",
+                    "longitude": "-40.3588"
+                },
+                "country": "Iran",
+                "postcode": 25115,
+                "state": "مرکزی",
+                "street": {
+                    "name": "پارک دانشجو",
+                    "number": 8390
+                },
+                "timezone": {
+                    "description": "Pacific Time (US & Canada)",
+                    "offset": "-8:00"
+                }
+            },
+            "login": {
+                "md5": "e48105c03cdafc350f240c12102563cf",
+                "password": "passwor",
+                "salt": "IPsTbiha",
+                "sha1": "c5763d1aca74fa1cad60e4ceb6d6490905c3cb89",
+                "sha256": "9d384d5f877b20e9fe2853d41dda33ab1036062340363efa0ad315f137bc3ad0",
+                "username": "sadelephant418",
+                "uuid": "5f26685e-0683-46a5-8660-9bda0e585260"
+            },
+            "name": {
+                "first": "مرسانا",
+                "last": "موسوی",
+                "title": "Ms"
+            },
+            "nat": "IR",
+            "phone": "010-28542095",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+            },
+            "registered": {
+                "age": 13,
+                "date": "2010-07-05T07:58:30.017Z"
+            }
+        },
+        {
+            "cell": "44281184",
+            "dob": {
+                "age": 65,
+                "date": "1958-07-24T00:22:31.266Z"
+            },
+            "email": "emmi.bjornsen@example.com",
+            "gender": "female",
+            "id": {
+                "name": "FN",
+                "value": "24075823009"
+            },
+            "location": {
+                "city": "Tjøtta",
+                "coordinates": {
+                    "latitude": "-52.5177",
+                    "longitude": "112.0730"
+                },
+                "country": "Norway",
+                "postcode": "7013",
+                "state": "Finnmark - Finnmárku",
+                "street": {
+                    "name": "Bertramjordet",
+                    "number": 5160
+                },
+                "timezone": {
+                    "description": "Newfoundland",
+                    "offset": "-3:30"
+                }
+            },
+            "login": {
+                "md5": "716cbdec71daefb751897b60f661b559",
+                "password": "alive",
+                "salt": "Iim5pHnZ",
+                "sha1": "4bb0cd3077fdaaabaa8d778ab9dbf8a339ce272a",
+                "sha256": "8f5ecc34789299b016be44ed6230d9521821bd87eb31e53f52cda243d5dc19e2",
+                "username": "heavysnake188",
+                "uuid": "313ebf47-301f-46e7-9cec-eec4a11f4c83"
+            },
+            "name": {
+                "first": "Emmi",
+                "last": "Bjørnsen",
+                "title": "Mrs"
+            },
+            "nat": "NO",
+            "phone": "34923080",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+            },
+            "registered": {
+                "age": 13,
+                "date": "2009-10-01T07:27:35.864Z"
+            }
+        },
+        {
+            "cell": "(434)-825-1854",
+            "dob": {
+                "age": 31,
+                "date": "1991-11-07T23:04:50.032Z"
+            },
+            "email": "ayse.cagiran@example.com",
+            "gender": "female",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "location": {
+                "city": "Kırıkkale",
+                "coordinates": {
+                    "latitude": "-15.2960",
+                    "longitude": "-177.7226"
+                },
+                "country": "Turkey",
+                "postcode": 79428,
+                "state": "Kilis",
+                "street": {
+                    "name": "Vatan Cd",
+                    "number": 2222
+                },
+                "timezone": {
+                    "description": "Bangkok, Hanoi, Jakarta",
+                    "offset": "+7:00"
+                }
+            },
+            "login": {
+                "md5": "b5c2d679f9dd7f7e8cd3e6da69621a2f",
+                "password": "pumper",
+                "salt": "8qpxdSL7",
+                "sha1": "2831125ef67139a8ffc3f8ff12120c6b1a5150ed",
+                "sha256": "205b245752b539d4705d40aa0ad4dac98c5d0022ff4faffaf311106308614fb8",
+                "username": "blackmeercat244",
+                "uuid": "e8293d79-0d2f-4972-b57e-3785e5f7cd4e"
+            },
+            "name": {
+                "first": "Ayşe",
+                "last": "Çağıran",
+                "title": "Miss"
+            },
+            "nat": "TR",
+            "phone": "(723)-165-3141",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+            },
+            "registered": {
+                "age": 3,
+                "date": "2020-03-07T11:06:24.438Z"
+            }
+        },
+        {
+            "cell": "(83) 7170-1347",
+            "dob": {
+                "age": 46,
+                "date": "1976-12-27T06:00:10.011Z"
+            },
+            "email": "osvaldo.daconceicao@example.com",
+            "gender": "male",
+            "id": {
+                "name": "CPF",
+                "value": "052.955.855-49"
+            },
+            "location": {
+                "city": "Itajaí",
+                "coordinates": {
+                    "latitude": "-37.4458",
+                    "longitude": "61.6944"
+                },
+                "country": "Brazil",
+                "postcode": 26969,
+                "state": "Tocantins",
+                "street": {
+                    "name": "Avenida da Democracia",
+                    "number": 76
+                },
+                "timezone": {
+                    "description": "Kaliningrad, South Africa",
+                    "offset": "+2:00"
+                }
+            },
+            "login": {
+                "md5": "b69bf2a0e39cfc1855d66715752a2a2c",
+                "password": "google",
+                "salt": "0flGJky4",
+                "sha1": "12f2ae4269c6826764647134ea0c4d89dabb128e",
+                "sha256": "46f4e9cd338324b52f337f0553214d8bdd2c3926690b037349c215c938b5c247",
+                "username": "brownlion575",
+                "uuid": "4a6f24c5-63d4-46d7-ac9d-cd92a49679e8"
+            },
+            "name": {
+                "first": "Osvaldo",
+                "last": "da Conceição",
+                "title": "Mr"
+            },
+            "nat": "BR",
+            "phone": "(46) 2563-4084",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/28.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+            },
+            "registered": {
+                "age": 10,
+                "date": "2013-08-10T21:48:13.472Z"
+            }
+        },
+        {
+            "cell": "(876)-613-4042",
+            "dob": {
+                "age": 25,
+                "date": "1998-09-19T23:48:36.121Z"
+            },
+            "email": "onal.basoglu@example.com",
+            "gender": "male",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "location": {
+                "city": "Kocaeli",
+                "coordinates": {
+                    "latitude": "-20.2338",
+                    "longitude": "11.0722"
+                },
+                "country": "Turkey",
+                "postcode": 46863,
+                "state": "Çanakkale",
+                "street": {
+                    "name": "Vatan Cd",
+                    "number": 6537
+                },
+                "timezone": {
+                    "description": "Central Time (US & Canada), Mexico City",
+                    "offset": "-6:00"
+                }
+            },
+            "login": {
+                "md5": "8b4b4107827fe0322643d2c554dbad40",
+                "password": "chuo",
+                "salt": "e7GIKQQq",
+                "sha1": "2ea46721dd7eb16010c8ad387cfdcf973b07e1c9",
+                "sha256": "b449d7db702c57b6fa3b150c81bdb27ce5c91a8d60153392070d855a31256fc8",
+                "username": "orangeladybug757",
+                "uuid": "54057e25-713e-4c83-bd5b-71c6b78c1f49"
+            },
+            "name": {
+                "first": "Önal",
+                "last": "Başoğlu",
+                "title": "Mr"
+            },
+            "nat": "TR",
+            "phone": "(018)-838-8577",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/71.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+            },
+            "registered": {
+                "age": 16,
+                "date": "2007-04-29T18:36:38.818Z"
+            }
+        }
+    ]
+}

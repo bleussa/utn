@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gabriel",
+    "apellido": "García Márquez",
+    "dni": 123456789,
+    "libros": [
+      {
+        "id": 8,
+        "nombre": "Cien años de soledad",
+        "anioPublicacion": 1967,
+        "editorial": "Editorial Sudamericana",
+        "idEscritor": 1
+      },
+      {
+        "id": 9,
+        "nombre": "El otoño del patriarca",
+        "anioPublicacion": 1975,
+        "editorial": "Editorial Sudamericana",
+        "idEscritor": 1
+      },
+      {
+        "id": 10,
+        "nombre": "Crónica de una muerte anunciada",
+        "anioPublicacion": 1981,
+        "editorial": "Editorial Sudamericana",
+        "idEscritor": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Jorge Luis",
+    "apellido": "Borges",
+    "dni": 987654321,
+    "libros": [
+      {
+        "id": 11,
+        "nombre": "Ficciones",
+        "anioPublicacion": 1944,
+        "editorial": "Emece Editores",
+        "idEscritor": 2
+      },
+      {
+        "id": 12,
+        "nombre": "El Aleph",
+        "anioPublicacion": 1949,
+        "editorial": "Emece Editores",
+        "idEscritor": 2
+      },
+      {
+        "id": 13,
+        "nombre": "Historia universal de la infamia",
+        "anioPublicacion": 1935,
+        "editorial": "Editorial ficticia",
+        "idEscritor": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Isabel",
+    "apellido": "Allende",
+    "dni": 456789123,
+    "libros": [
+      {
+        "id": 14,
+        "nombre": "La casa de los espíritus",
+        "anioPublicacion": 1982,
+        "editorial": "Plaza & Janés",
+        "idEscritor": 3
+      },
+      {
+        "id": 15,
+        "nombre": "Paula",
+        "anioPublicacion": 1994,
+        "editorial": "Plaza & Janés",
+        "idEscritor": 3
+      },
+      {
+        "id": 16,
+        "nombre": "Eva Luna",
+        "anioPublicacion": 1987,
+        "editorial": "Plaza & Janés",
+        "idEscritor": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Edgar Allan",
+    "apellido": "Poe",
+    "dni": 789123456,
+    "libros": [
+      {
+        "id": 17,
+        "nombre": "Los crímenes de la calle Morgue",
+        "anioPublicacion": 1841,
+        "editorial": "Graham's Magazine",
+        "idEscritor": 4
+      },
+      {
+        "id": 18,
+        "nombre": "El cuervo",
+        "anioPublicacion": 1845,
+        "editorial": "Graham's Magazine",
+        "idEscritor": 4
+      },
+      {
+        "id": 19,
+        "nombre": "La caída de la Casa Usher",
+        "anioPublicacion": 1839,
+        "editorial": "Graham's Magazine",
+        "idEscritor": 4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Jane",
+    "apellido": "Austen",
+    "dni": 321654987,
+    "libros": [
+      {
+        "id": 20,
+        "nombre": "Orgullo y prejuicio",
+        "anioPublicacion": 1813,
+        "editorial": "T. Egerton, Whitehall",
+        "idEscritor": 5
+      },
+      {
+        "id": 21,
+        "nombre": "Sentido y sensibilidad",
+        "anioPublicacion": 1811,
+        "editorial": "T. Egerton, Whitehall",
+        "idEscritor": 5
+      },
+      {
+        "id": 22,
+        "nombre": "Emma",
+        "anioPublicacion": 1815,
+        "editorial": "T. Egerton, Whitehall",
+        "idEscritor": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Ernest",
+    "apellido": "Hemingway",
+    "dni": 654987321,
+    "libros": [
+      {
+        "id": 23,
+        "nombre": "El viejo y el mar",
+        "anioPublicacion": 1952,
+        "editorial": "Charles Scribner's Sons",
+        "idEscritor": 6
+      },
+      {
+        "id": 24,
+        "nombre": "Por quién doblan las campanas",
+        "anioPublicacion": 1940,
+        "editorial": "Charles Scribner's Sons",
+        "idEscritor": 6
+      },
+      {
+        "id": 25,
+        "nombre": "Fiesta",
+        "anioPublicacion": 1926,
+        "editorial": "Charles Scribner's Sons",
+        "idEscritor": 6
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Leo",
+    "apellido": "Tolstoy",
+    "dni": 987321654,
+    "libros": [
+      {
+        "id": 26,
+        "nombre": "Guerra y paz",
+        "anioPublicacion": 1869,
+        "editorial": "The Russian Messenger",
+        "idEscritor": 7
+      },
+      {
+        "id": 27,
+        "nombre": "Anna Karenina",
+        "anioPublicacion": 1877,
+        "editorial": "The Russian Messenger",
+        "idEscritor": 7
+      },
+      {
+        "id": 28,
+        "nombre": "La muerte de Ivan Ilyich",
+        "anioPublicacion": 1886,
+        "editorial": "The Russian Messenger",
+        "idEscritor": 7
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "William",
+    "apellido": "Shakespeare",
+    "dni": 123789456,
+    "libros": [
+      {
+        "id": 29,
+        "nombre": "Romeo y Julieta",
+        "anioPublicacion": 1597,
+        "editorial": "Editorial ficticia de la época",
+        "idEscritor": 8
+      },
+      {
+        "id": 30,
+        "nombre": "Hamlet",
+        "anioPublicacion": 1603,
+        "editorial": "Editorial ficticia de la época",
+        "idEscritor": 8
+      },
+      {
+        "id": 31,
+        "nombre": "Macbeth",
+        "anioPublicacion": 1623,
+        "editorial": "Editorial ficticia de la época",
+        "idEscritor": 8
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Emily",
+    "apellido": "Brontë",
+    "dni": 456123789,
+    "libros": [
+      {
+        "id": 5,
+        "nombre": "Cumbres Borrascosas",
+        "anioPublicacion": 1847,
+        "editorial": "Thomas Cautley Newby",
+        "idEscritor": 9
+      },
+      {
+        "id": 6,
+        "nombre": "Agnes Grey",
+        "anioPublicacion": 1847,
+        "editorial": "Thomas Cautley Newby",
+        "idEscritor": 9
+      },
+      {
+        "id": 7,
+        "nombre": "Poemas",
+        "anioPublicacion": 1846,
+        "editorial": "Thomas Cautley Newby",
+        "idEscritor": 9
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "George",
+    "apellido": "Orwell",
+    "dni": 789456123,
+    "libros": [
+      {
+        "id": 2,
+        "nombre": "1984",
+        "anioPublicacion": 1949,
+        "editorial": "Secker & Warburg",
+        "idEscritor": 10
+      },
+      {
+        "id": 3,
+        "nombre": "Rebelión en la granja",
+        "anioPublicacion": 1945,
+        "editorial": "Secker & Warburg",
+        "idEscritor": 10
+      },
+      {
+        "id": 4,
+        "nombre": "Homenaje a Cataluña",
+        "anioPublicacion": 1938,
+        "editorial": "Secker & Warburg",
+        "idEscritor": 10
+      }
+    ]
+  }
+]
