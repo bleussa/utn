@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TP6-JSDOM</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="ejercicio">
+        <p id="miparrafo"> Esto es una prueba </p>
+        <button id="fuentePequena">Fuente Pequeña</button>
+        <button id="fuenteMediana">Fuente Mediana</button>
+        <button id="fuenteGrande">Fuente Grande</button>
+    </div>
+
+    <div class="ejercicio">
+        <h1 id="contador">1</h1>
+    </div>
+
+    <div class="ejercicio">
+        <p id="parrafo1">Este es el primer párrafo</p>
+        <p>Este es el segundo párrafo</p>
+        <p>Este es el tercer párrafo</p>
+        <input type="button" value="Cambiar tamaño de fuente"
+        onClick="cambiarTamFuente()">
+    </div>
+
+    <div class="ejercicio">
+        <p>Párrafo número 1.</p>
+        <p>Párrafo número 2.</p>
+        <p>Párrafo número 3.</p>
+        <p>Párrafo número 4.</p>
+        <p>Párrafo número 5.</p>
+        <p>Párrafo número 6.</p>
+        <input type="button" value="Cambiar Color" onClick="cambiarColor()"> 
+    </div>
+
+    <div class="ejercicio">
+        <ul id="lista">
+        </ul>
+        <input type="button" value="agregar dos (li)" onClick="mostrarSoluciones()">
+    </div>
+
+    <div class="ejercicio">
+        <table id="tabla1">
+            <tr>
+                <td>11</td><td>12</td>
+            </tr>
+            <tr>
+                <td>21</td><td>22</td>
+            </tr>
+        </table>
+        <input type="button" value="definir la propiedad border de la tabla" onClick="definirAtributo()">
+    </div>
+
+    <div class="ejercicio" style="margin-bottom: 40px;">
+        <input type="text" placeholder="Usuario" id="user">
+        <input type="text" placeholder="Contraseña" id="pass">
+        <input type="text" placeholder="Repetir contraseña" id="passValidation">
+        <input type="button" value="Enviar" onclick="validar()">
+
+        <div class="mensaje">
+            <p class="titulo" tipo=""></p>
+            <p></p>
+        </div>
+    </div>
+
+    <script src="js/ejercicio1.js"></script>
+    <script src="js/ejercicio2.js"></script>
+    <script src="js/ejercicio3.js"></script>
+    <script src="js/ejercicio4.js"></script>
+    <script src="js/ejercicio5.js"></script>
+    <script src="js/ejercicio6.js"></script>
+    <script src="js/ejercicio7.js"></script>
+
+</body>
+</html>
