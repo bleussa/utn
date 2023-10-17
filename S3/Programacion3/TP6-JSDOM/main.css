@@ -53,7 +53,7 @@ div.ejercicio input[type=text]{
     position: fixed;
     bottom: 40px;
     right: 40px;
-    transform: translateY(150%);
+    transform: translateY(200%);
     transition: all .5s;
     width: 250px;
 }

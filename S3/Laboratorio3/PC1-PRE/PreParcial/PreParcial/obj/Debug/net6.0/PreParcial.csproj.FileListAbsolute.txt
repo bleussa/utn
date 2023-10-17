@@ -1,0 +1,15 @@
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\bin\Debug\net6.0\PreParcial.exe
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\bin\Debug\net6.0\PreParcial.deps.json
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\bin\Debug\net6.0\PreParcial.runtimeconfig.json
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\bin\Debug\net6.0\PreParcial.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\bin\Debug\net6.0\PreParcial.pdb
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.csproj.AssemblyReference.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.AssemblyInfoInputs.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.AssemblyInfo.cs
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.csproj.CoreCompileInputs.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\refint\PreParcial.dll
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.pdb
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\PreParcial.genruntimeconfig.cache
+C:\Users\bleussa\Documents\Proyectos\utn\S3\Laboratorio3\PC1-PRE\PreParcial\PreParcial\obj\Debug\net6.0\ref\PreParcial.dll
