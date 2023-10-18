@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parcial N°1 Programación</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="mensaje">
+        <p class="title">Titulo</p>
+        <p>Descripcion</p>
+    </div>
+    <div class="container">
+        <div class="block">
+            <h1>Formulario de Carga</h1>
+            <form action="">
+                <div>
+                    <label for="tiempoFacturacion">Tiempo de Facturación</label>
+                    <input type="number" name="tiempoFacturacion" id="tiempoFacturacion">
+                </div>
+                <div>
+                    <label for="denominacion">Denominación</label>
+                    <input type="text" name="denominacion" id="denominacion">
+                </div>
+                <div>
+                    <label for="codigo">Código</label>
+                    <input type="text" name="codigo" id="codigo">
+                </div>
+                <div>
+                    <label for="precioVenta">Precio Venta</label>
+                    <input type="number" name="precioVenta" id="precioVenta">
+                </div>
+                <div>
+                    <label for="margenGanancia">Margen de Ganancia</label>
+                    <input type="number" name="margenGanancia" id="margenGanancia">
+                </div>
+                <div>
+                    <label for="rubro">Rubro</label>
+                    <select name="rubro" id="rubro">
+                        <option>Agricola</option>
+                        <option>Metalmecanica</option>
+                        <option>Alimentaria</option>
+                    </select>
+                </div>
+                <button type="submit" class="cargar">Enviar</button>
+                <button type="reset" class="resetear">Borrar Información</button>
+            </form>
+        </div>
+        <div class="block">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Codigo</th>
+                        <th>Denominación</th>
+                        <th>Precio Venta</th>
+                        <th>Margen de Ganancia</th>
+                        <th>Tiempo de Fabricación</th>
+                        <th>Rubro</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Codigo de JS -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
