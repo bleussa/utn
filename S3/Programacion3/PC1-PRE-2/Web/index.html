@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parcial N°1 Programación</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="mensaje">
+        <p class="title">Titulo</p>
+        <p>Descripcion</p>
+    </div>
+    <div class="container">
+        <div class="block">
+            <h1>Formulario de Carga</h1>
+            <form action="">
+                <div>
+                    <label for="legajo">Legajo</label>
+                    <input type="number" name="legajo" id="legajo">
+                </div>
+                <div>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" name="nombre" id="nombre">
+                </div>
+                <div>
+                    <label for="codigoBono">Código Bono</label>
+                    <input type="text" name="codigoBono" id="codigoBono">
+                </div>
+                <div>
+                    <label for="mes">Mes</label>
+                    <select name="mes" id="mes">
+                        <option>Enero</option>
+                        <option>Febrero</option>
+                        <option>Marzo</option>
+                        <option>Abril</option>
+                        <option>Mayo</option>
+                        <option>Junio</option>
+                        <option>Julio</option>
+                        <option>Agosto</option>
+                        <option>Septiembre</option>
+                        <option>Octubre</option>
+                        <option>Noviembre</option>
+                        <option>Diciembre</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="anio">Año</label>
+                    <input type="number" name="anio" id="anio">
+                </div>
+                <div>
+                    <label for="total">Total</label>
+                    <input type="number" name="total" id="total">
+                </div>
+                <button type="submit" class="cargar">Enviar</button>
+                <button type="reset" class="resetear">Borrar Información</button>
+            </form>
+        </div>
+        <div class="block">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Legajo</th>
+                        <th>Nombre</th>
+                        <th>Codigo Bono</th>
+                        <th>Mes</th>
+                        <th>Año</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Codigo de JS -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
