@@ -1,0 +1,142 @@
+body{
+    background: #e6f6fe;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #20415b;
+}
+
+.container{
+    margin: 50px 10% 100px 10%;
+}
+
+.line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: rgba(0,0,0,.01) 0 0 20px 0;
+}
+
+.line h1{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+
+.line a{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: #0593ff;
+    color: #FFF;
+    text-decoration: none;
+    transition: all .5s;
+    font-weight: 500;
+}
+.line a:hover{
+    background: #2eafff;
+}
+
+.info-container{
+    padding: 20px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: rgba(0,0,0,.01) 0 0 20px 0;
+    width: 100%;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+
+table.table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+table.table thead th{
+    border-bottom: solid 2px rgba(32, 65, 91, 1);
+    padding: 10px 0;
+}
+
+table.table tbody td{
+    border-bottom: solid 1px rgba(32, 65, 91, .25);
+    text-align: center;
+    padding: 5px 0;
+}
+table.table tbody td.txt{
+    font-size: 12px;
+    text-align: left;
+}
+
+table.table tbody td a{
+    text-decoration: none;
+    color: #0593ff;
+    font-weight: 500;
+}
+table.table tbody td a:hover{
+    text-decoration: underline;
+}
+table.table tbody td p{
+    padding: 0;
+    margin: 0;
+}
+table.table tbody td img{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form div.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+form div label{
+    width: 20%;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+form div input, form div select{
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid #eeeeee 2px;
+    resize: none;
+    box-sizing: border-box;
+}
+
+.tox-tinymce{
+    height: 400px !important;
+    width: 80% !important;
+}
+
+.btnGuardar{
+    background: seagreen;
+    color: #FFF;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.btnResetear{
+    background: indianred;
+    color: #FFF;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+}
