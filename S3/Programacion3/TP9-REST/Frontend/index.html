@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend API REST</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="modalContainer">
+        <div class="formularioContainer">
+            <div class="modalHeader">
+                <h2>Formulario de Carga/Actualización</h2>
+                <button id="cerrarVentana">Cerrar ventana</button>
+            </div>
+            <form>
+                <div>
+                    <label for="id">ID</label>
+                    <input type="text" id="id" readonly>
+                </div>
+                <div>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre">
+                </div>
+                <div>
+                    <label for="apellido">Apellido</label>
+                    <input type="text" id="apellido">
+                </div>
+                <div>
+                    <label for="telefono">Telefono</label>
+                    <input type="number" id="telefono">
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email">
+                </div>
+                <div>
+                    <label for="domicilio">Domicilio</label>
+                    <input type="text" id="domicilio">
+                </div>
+                <div>
+                    <label><br></label>
+                    <button type="reset">Resetear registro</button>
+                </div>
+                <div >
+                    <label><br></label>
+                    <button id="buttonAction" type="submit"></button>
+                </div>
+            </form>
+        </div>
+        <div class="confirmacionContainer">
+            <div class="modalHeader">
+                <h2>Confirmar acción</h2>
+                <button id="cerrarVentana">Cerrar ventana</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="header">
+            <h1>agendaAdmin</h1>
+            <button id="crearRegistro">Crear nuevo registro</button>
+        </div>
+        <div class="tableContainer">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Telefono</th>
+                        <th>Email</th>
+                        <th>Domicilio</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
