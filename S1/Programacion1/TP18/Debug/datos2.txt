@@ -1,0 +1,6 @@
+V1
+Vector de 9 valores:
+10 21 30 24 36 14 65 65 78
+V2
+Vector de 3 valores:
+37 65 21
